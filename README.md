@@ -1,3 +1,9 @@
+# Library, Software and Tools
+- OpenPose
+- CMake
+- Visual Studio
+- MLJAR
+  
 # Demo
 1. Download and install CMake, add the installation path to the system environment variable Path
 ![Screenshot (391)](https://github.com/junetan29/Yoga-Pose-Estimation-with-OpenPose/assets/95990839/ad686ca7-e689-4e66-b56b-5ff6c137a878)
@@ -39,6 +45,6 @@
 
 15. The keypoints of the pose will be saved in json file as the image shown below 
 ![Screenshot (392)](https://github.com/junetan29/Yoga-Pose-Estimation-with-OpenPose/assets/95990839/5d952925-52cc-4166-8206-b7d91822c41e)
-
+  
 # Reference
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
