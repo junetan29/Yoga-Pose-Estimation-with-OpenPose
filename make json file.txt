@@ -1,0 +1,1 @@
+OpenPoseDemo.exe --image_dir C:\Users\tanju\Desktop\3\test\16 --write_json C:\Users\tanju\Desktop\3\json\test\12 --net_resolution 160x160
